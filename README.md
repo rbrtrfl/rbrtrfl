@@ -6,9 +6,18 @@ I'm highly organized and a fast learner with analytical skills and attention to 
 
 ### Technologies I work with
 
+**Front End**
 JavaScript | React | TypeScript | CSS | HTML |
-Python | C++ | Docker |
+
+**Back End**
 Node.js | Express | Koa | Socket.io |
+
+**Databases**
 MongoDB | Mongoose | PostgreSQL | Prisma | Sequelize |
 Rest API | GraphQL |
-Figma | Illustrator | Indesign | Photoshop
+
+**Design**
+Figma | Illustrator | Indesign | Photoshop |
+
+**IoT and Tools**
+C++ | Python | Docker |
