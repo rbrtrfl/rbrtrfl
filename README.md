@@ -19,5 +19,4 @@ Rest API | GraphQL |
 **Design**:
 Figma | Illustrator | Indesign | Photoshop |
 
-**IoT and Tools**:
 C++ | Python | Docker |
