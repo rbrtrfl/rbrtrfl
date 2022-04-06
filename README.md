@@ -4,9 +4,8 @@ M.Sc. architect with focus on computational design and prototyping.
 I am a highly organized all-rounder with experience working in different industries who loves embracing and adapting to new technologies. I enjoy working with teams that encourage development and knowledge sharing.
 
 ### Technologies I work with
-
-**Front End:**
 <p>
+**Front End:**
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
