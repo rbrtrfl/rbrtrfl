@@ -9,7 +9,7 @@ I am a highly organized all-rounder with experience working in different industr
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Leaflet" src="https://img.shields.io/badge/leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
