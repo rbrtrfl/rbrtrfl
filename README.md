@@ -61,4 +61,6 @@ I am a highly organized all-rounder with experience working in different industr
   <img alt="Arduino" src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Rhino3D" src="https://img.shields.io/badge/Rhino3d-801010?style=flat-square&logo=rhinoceros&logoColor=white" />
+  <img alt="Wrike" src="https://img.shields.io/badge/wrike-04ba71?style=flat-square&logo=wrike&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
